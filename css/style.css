@@ -70,6 +70,12 @@ button{
     color: red;
     font-size: 25px;
 }
+#delFav:hover{
+    cursor:pointer;
+}
+#addFav:hover{
+    cursor:pointer;
+}
 #addFav{
     font-size: 25px;
     color: lightgray;
